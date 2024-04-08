@@ -1,24 +1,33 @@
-纯属搬运自用，无分享
+纯属搬运自用
+可借助 ghproxy 为 GitHub 加速：在 https://raw.githubusercontent.com/ 前添加 https://gh.idayer.com/
+
 Q-search https://raw.githubusercontent.com/Zoerot/Zoerot/main/Q-search.js
-## 分流规则
+## 1️⃣分流规则
 
 **我们并不生产规则，我们只是开源规则的搬运工。**
 
+|🐧分流|:link:链接|:pushpin:说明|
+|--|--|--|
+|:white_check_mark:SteamFilter.conf|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/SteamFilter.conf)|steam 分流
+|:white_check_mark:FanqieNovel.conf|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/FanqieNovel.conf)|番茄小说去广告分流
+|:white_check_mark:OpenAi.conf|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/OpenAi.conf)|ChatGPT分流
 ✅常见分流-番茄小说&steam(https://github.com/Zoerot/Zoerot/raw/main/CommonFilter.conf)
 
 ## 重写规则
-|:white_check_mark:番茄小说|[:link:链接地址](https://whatshub.top/stoverride/fanqie.stoverride)|番茄小说去广告
-彩云天气 https://raw.githubusercontent.com/wf021325/qx/master/js/caiyun.js
 
-| 脚本                                                         | 介绍                                 | 框架        | 维护状态 |
-| ------------------------------------------------------------ | ------------------------------------ | ----------- | -------- |
-| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买任务和去广告               | MagicJS 2/3 | 正常     |
-| [百度贴吧](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率 | MagicJS 3   | 正常     |
-| [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | MagicJS 3   | 正常     |
-| [慢慢买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy) | 每日自动签到                         | MagicJS 2   | 正常     |
-| [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | MagicJS 3   | 正常     |
-| [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | MagicJS 2   | 正常     |
-| [Luka](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/luka) | 每日自动签到                         | MagicJS 2   | 正常     |
-| [哲也同学](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zheye) | 之乎者也                             | MagicJS 3   | 正常     |
-| [Synology](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/synology) | 群晖Download Station资源离线下载     | MagicJS 3   | 正常     |
-| [AppleStore](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/applestore) | AppleStore 商品库存监控              | MagicJS 3   | 暂停     |
+|🐧重写|:link:链接|:pushpin:说明|
+|--|--|--|
+|:white_check_mark:AdBlock.js|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/AdBlock.js)|去开屏广告（取自墨鱼略微删减）
+
+|:white_check_mark:去广告|[🚀链接地址](https://whatshub.top/stoverride/startingad.stoverride)|去广告
+|:white_check_mark:去广告mix|[:link:链接地址](https://whatshub.top/stoverride/adultra.stoverride)|去广告mix
+|:white_check_mark:去广告mix+|[:link:链接地址](https://whatshub.top/stoverride/adultraplus.stoverride)|去广告mix+
+|:white_check_mark:accuweather解锁|[:link:链接地址](https://whatshub.top/stoverride/accu.stoverride)|天气app
+|:white_check_mark:alarmy|[:link:链接地址](https://whatshub.top/stoverride/alarmy.stoverride)|使命闹钟
+|:white_check_mark:aloha|[:link:链接地址](https://whatshub.top/stoverride/aloha.stoverride)|VPN隐私浏览器
+|:white_check_mark:爱美剧|[:link:链接地址](https://whatshub.top/stoverride/amj.stoverride)|影视app 去广告+解锁部分会员功能
+|:white_check_mark:Background Eraser|[:link:链接地址](https://whatshub.top/stoverride/aosoft.stoverride)|抠图app
+|:white_check_mark:appraven|[:link:链接地址](https://whatshub.top/stoverride/appraven.stoverride)|应用市场
+|:white_check_mark:audiomack|[:link:链接地址](https://whatshub.top/stoverride/audiomack.stoverride)|音乐相关app
+|:white_check_mark:b612相机|[:link:链接地址](https://whatshub.top/stoverride/b612.stoverride)|相机编辑app
+|:white_check_mark:百度云倍速|[:link:链接地址](https://whatshub.top/stoverride/baiducloud.stoverride)|百度云倍率播放
