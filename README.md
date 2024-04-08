@@ -20,5 +20,4 @@ Q-search https://raw.githubusercontent.com/Zoerot/Zoerot/main/Q-search.js
 |:white_check_mark:FanqieNovel.js|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/FanqieNovel.js)|番茄小说重写（配合分流）
 |:white_check_mark:CaiYun.js|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/CaiYun.js)|彩云天气解锁SVIP
 |:white_check_mark:Lento.js|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/Lento.js)|Lento解锁（壁纸）
-|:white_check_mark:Q-search.js|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/Q-search.js)|番茄小说重写（配合分流）
-|:white_check_mark:FanqieNovel.js|[🚀链接地址](https://github.com/Zoerot/Zoerot/raw/main/FanqieNovel.js)|番茄小说重写（配合分流）
+|:white_check_mark:Q-search.js|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/Q-search.js)|Safari 搜索增强
