@@ -1,4 +1,5 @@
-纯属搬运自用
+纯属搬运自用，仅供学习和研究
+
 可借助 ghproxy 为 GitHub 加速：
 在 https://raw.githubusercontent.com/ 前添加 https://gh.idayer.com/
 
