@@ -1,7 +1,7 @@
 纯属搬运自用
-可借助 ghproxy 为 GitHub 加速：在 https://raw.githubusercontent.com/ 前添加 https://gh.idayer.com/
+可借助 ghproxy 为 GitHub 加速：
+在 https://raw.githubusercontent.com/ 前添加 https://gh.idayer.com/
 
-Q-search https://raw.githubusercontent.com/Zoerot/Zoerot/main/Q-search.js
 ## 1️⃣分流规则
 
 **我们并不生产规则，我们只是开源规则的搬运工。**
