@@ -1,4 +1,4 @@
-#lento 1.5.14
+#lento 1.5.14可用
 /* 
 
 Lento  
