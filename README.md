@@ -11,7 +11,6 @@ Q-search https://raw.githubusercontent.com/Zoerot/Zoerot/main/Q-search.js
 |:white_check_mark:SteamFilter.conf|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/SteamFilter.conf)|steam 分流
 |:white_check_mark:FanqieNovel.conf|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/FanqieNovel.conf)|番茄小说去广告分流
 |:white_check_mark:OpenAi.conf|[🚀链接地址](https://raw.githubusercontent.com/Zoerot/Zoerot/main/OpenAi.conf)|ChatGPT分流
-✅常见分流-番茄小说&steam(https://github.com/Zoerot/Zoerot/raw/main/CommonFilter.conf)
 
 ## 重写规则
 
