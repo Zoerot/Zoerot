@@ -1,0 +1,32 @@
+# NAME: Elsevier & Springer
+# AUTHOR: Zoerot
+# REPO: https://github.com/Zoerot/Zoerot
+# UPDATED: 2024-07-06 13:47:59
+# DOMAIN: 6
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 10
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 21
+payload:
+  - DOMAIN,elsevier.com
+  - DOMAIN,sciencedirect.com
+  - DOMAIN,scopus.com
+  - DOMAIN,springer.com
+  - DOMAIN,link.springer.com
+  - DOMAIN,springernature.com
+  - DOMAIN-KEYWORD,elsevier
+  - DOMAIN-KEYWORD,springer
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,scopus.com
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,link.springer.com
+  - DOMAIN-SUFFIX,springernature.com
+  - DOMAIN-SUFFIX,academic.elsevier.com
+  - DOMAIN-SUFFIX,books.elsevier.com
+  - DOMAIN-SUFFIX,journals.elsevier.com
+  - DOMAIN-SUFFIX,authors.elsevier.com
+  - IP-CIDR,104.18.0.0/20
+  - IP-CIDR,104.17.0.0/20
+  - IP-ASN,13335
